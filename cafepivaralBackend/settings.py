@@ -138,6 +138,9 @@ JAZZMIN_SETTINGS = {
     'welcome_title': 'Bienvenido a Café Pivaral',
     'copyright': 'Café Pivaral',
     'show_sidebar': True,
+    'sidebar_title': 'Cafe Pivaral',
+    'welcome_sign': 'Bienvenido a Cafe Pivaral',
+    'sidebar_sign': 'Bienvenido a Cafe Pivaral',
 }
 
 
