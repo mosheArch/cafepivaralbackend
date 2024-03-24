@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'vendor',
     'customer',
     'api',
+    'drf_yasg'
 ]
 
 MIDDLEWARE = [
